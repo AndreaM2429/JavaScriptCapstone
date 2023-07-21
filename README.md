@@ -10,6 +10,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live demo](#live)
   - [💻 Getting Started ](#-getting-started-)
     - [Project Structure](#project-structure)
     - [Setup](#setup)
@@ -91,6 +92,13 @@
 -   **Send and receive data from API**
 -   **Jest testing**
 -   **API's**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Live Demo <a name="live"></a>
+
+[Live demo](https://andream2429.github.io/JavaScriptCapstone/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
